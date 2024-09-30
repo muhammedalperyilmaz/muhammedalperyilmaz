@@ -7,8 +7,6 @@
 ###
 
 <p align="left">Hello, I'm Muhammed Alperen . My passion for software development started at a very young age and is currently shaping my goal of building dynamic web applications. I work with the latest technologies such as Java, Spring Boot<br><br>I have never thought of giving up in any challenge I have faced, I have always found a way to overcome it. I am always ready to face new challenges. <br>I am determined to keep up with the fast-changing technologies of the software industry with the desire to continuously improve my skills. I would be happy for you to visit my GitHub page and check out my ongoing projects.<br><br>Feel free to contact me with any questions, suggestions, or feedback. Your feedback is of great importance to me. I am here for good co-operation and innovative projects.</p>
-<p align="left">I 'm student in Gazi University master degree speciality of Information Systems<br>I live in Ankara <br>I am working Cekino Iinformation Technology</p>
-
 
 - 🔭 I’m currently working on Java 
 - 🌱 I’m currently learning Spring and Spring Boot
